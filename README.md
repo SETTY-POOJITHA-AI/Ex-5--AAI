@@ -67,6 +67,7 @@ plt.show()
 ```
 
 ### Output:
+![image](https://github.com/SETTY-POOJITHA-AI/Ex-5--AAI/assets/93427581/b49ac3c0-a47c-44d1-b6ce-fd7feb248ef0)
 
 
 ### Results:
